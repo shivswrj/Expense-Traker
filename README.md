@@ -7,7 +7,7 @@ You can add and delete Expenses easily with different categories.
 Run Locally
 Clone the project
 
-  git clone https://github.com/Bug-Slicers/expensetracker.git
+  git clone https://github.com/shivswrj/Expense-Traker.git
 Go to the project directory
 
   cd expensetracker
